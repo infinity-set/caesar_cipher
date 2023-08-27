@@ -1,7 +1,5 @@
 <h1>Simple Text Encryption/Decryption Program</h1>
 
- ### [YouTube Demonstration](https:www.google.com)
-
 <h2>Description</h2>
 This Python program offers a straightforward way to encrypt or decrypt a secret message using a customizable key. 
 The program employs a simple substitution cipher technique, which substitutes each character in the message with another character determined by the provided key. 
@@ -9,7 +7,7 @@ The encrypted or decrypted message is then presented on the screen and convenien
 <br />
 
 
-<h1> Languages and Utilities Used</h1>
+<h2> Languages and Utilities Used</h2>
 
 - Python
 - PyCharm
