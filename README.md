@@ -42,40 +42,19 @@ This must be installed on your enviroment.
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Launch PyCharm and Run the file: <br/>
+<img src="https://github.com/infinity-set/infinity-set/assets/142350896/b5c1b1e1-0306-454f-b5ec-b04378f4f7e9" height="80%" width="80%" alt="Run PyCharm File"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Encrypt Message:  <br/>
+<img src="https://github.com/infinity-set/infinity-set/assets/142350896/5969391b-847d-4de5-b0a7-e73cd22c434a" height="80%" width="80%" alt="Encryption Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Use the same key to decrypt: <br/>
+<img src="https://github.com/infinity-set/infinity-set/assets/142350896/709bbc65-8785-4eb7-b94d-ab5f647d33c8" height="80%" width="80%" alt="Encryption/Decryption Key"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Decrypt Message:  <br/>
+<img src="https://github.com/infinity-set/infinity-set/assets/142350896/26051614-4172-4815-b618-e7b9d4303bb0" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
