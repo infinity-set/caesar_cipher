@@ -9,16 +9,25 @@ The encrypted or decrypted message is then presented on the screen and convenien
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h1> Languages and Utilities Used</h1>
 
-- <b>Python</b> 
-- <b>PyCharm</b>
+- Python
+- PyCharm
 
+[<img align="center" alt="PyCharm Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />][pycharm]
+[<img align="left" alt="Python Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
+
+[pycharm]: https://www.jetbrains.com/pycharm/
+[python]: https://www.python.org/
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b>
 
+[<img align="left" alt="Microsoft Icon" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Windows_logo_-_2012_derivative.svg" />][windows]
 
+[windows]: https://www.microsoft.com/
+
+<br /><br />
 <h2>Usage </h2>
 
 1. To use the program, navigate to the program's directory and run the <i><b>caesar_cipher.py</i></b> file.
