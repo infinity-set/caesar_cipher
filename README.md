@@ -1,32 +1,47 @@
-<h1>Simple Text Encryption/Decryption Program</h1>
+# Simple Text Encryption/Decryption Program
 
-<h2>Description</h2>
+## Table of Contents
+
+- [Description](#description)
+- [Languages and Utilities Used](#languages-and-utilities-used)
+- [Environments Used](#environments-used)
+- [Usage](#usage)
+- [Dependencies](#dependencies)
+- [Program Walk-Through](#program-walk-through)
+
+
+## Description
 This Python program offers a straightforward way to encrypt or decrypt a secret message using a customizable key. 
 The program employs a simple substitution cipher technique, which substitutes each character in the message with another character determined by the provided key. 
 The encrypted or decrypted message is then presented on the screen and conveniently copied to the clipboard for easy sharing.
 <br />
 
 
-<h2> Languages and Utilities Used</h2>
+## Languages and Utilities Used
 
 - Python
 - PyCharm
+
+<br>
 
 [<img align="center" alt="PyCharm Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />][pycharm]
 [<img align="left" alt="Python Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
 
 [pycharm]: https://www.jetbrains.com/pycharm/
 [python]: https://www.python.org/
-<h2>Environments Used </h2>
 
-- <b>Windows 10</b>
+## Environments Used 
+
+- Windows 10
+
+<br>
 
 [<img align="left" alt="Microsoft Icon" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Windows_logo_-_2012_derivative.svg" />][windows]
 
 [windows]: https://www.microsoft.com/
 
 <br /><br />
-<h2>Usage </h2>
+## Usage 
 
 1. To use the program, navigate to the program's directory and run the <i><b>caesar_cipher.py</i></b> file.
 
@@ -41,12 +56,12 @@ The encrypted or decrypted message is then presented on the screen and convenien
 6. Additionally, the program will automatically copy the processed message to your clipboard for seamless sharing.
 
 
-<h2>Dependencies </h2>
+## Dependencies 
 
 - <b>pyperclip Library:</b> The program utilizes the <i><b>'pyperclip'</b></i> library to facilitate copying the result to the clipboard.
 This must be installed on your enviroment.
 
-<h2>Program walk-through:</h2>
+## Program Walk-Through
 
 <p align="center">
 Launch PyCharm and Run the file: <br/>
