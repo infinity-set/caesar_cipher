@@ -1,5 +1,7 @@
 # Simple Text Encryption/Decryption Program
 
+Welcome to the "Simple Text Encryption/Decryption Program" in Python. This program offers a straightforward way to encrypt or decrypt messages using a customizable key.
+
 ## Table of Contents
 
 - [Description](#description)
