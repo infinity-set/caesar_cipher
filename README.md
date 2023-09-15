@@ -34,7 +34,7 @@ The encrypted or decrypted message is then presented on the screen and convenien
 
 ## Environments Used 
 
-- Windows 10
+- Windows 
 
 <br>
 
