@@ -82,6 +82,10 @@ Decrypt Message:  <br/>
 <img src="https://github.com/infinity-set/infinity-set/assets/142350896/26051614-4172-4815-b618-e7b9d4303bb0" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+## Dive Deeper and Crack This Code!
+
+[Hacking Caesar Cipher](https://github.com/infinity-set/hack_caesar)
+
 #
 <br>
 
